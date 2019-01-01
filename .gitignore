@@ -1,0 +1,14 @@
+#Virtual environment
+venv/*
+
+#Python cached files
+*.pyc
+
+#Environment start script
+env.sh
+
+#Configuration file
+config.py
+
+#Notebook checkpoints
+.ipynb_checkpoints/*
